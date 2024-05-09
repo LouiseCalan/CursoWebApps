@@ -1,0 +1,7 @@
+﻿{
+client_name: string,
+client_id: string
+} 
+{
+"result": string(tokenId)
+}
